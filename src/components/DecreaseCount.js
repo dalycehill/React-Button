@@ -1,6 +1,6 @@
 import React from 'react';
 import Button from './Button'
-import './DecreaseCount.css';
+// import './DecreaseCount.css';
 
 class IncreaseCount extends React.Component {
 
