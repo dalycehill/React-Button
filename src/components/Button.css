@@ -1,0 +1,19 @@
+button {
+    width: 100%;
+}
+
+.plus {
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.minus {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.reset {
+    font-size: 20px;
+}
